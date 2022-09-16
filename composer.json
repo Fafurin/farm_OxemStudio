@@ -1,0 +1,15 @@
+{
+    "name": "voodoo/oxem",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fafurin",
+            "email": "ffafurin@mail.ru"
+        }
+    ],
+    "require": {}
+}
